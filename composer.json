@@ -1,0 +1,12 @@
+{
+    "name": "theplanet-tech/planet-admin",
+    "description": "An admin panel for laravel",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Radwan",
+            "email": "muhammed.a.radwan@gmail.com"
+        }
+    ],
+    "require": {}
+}
