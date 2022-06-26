@@ -8,5 +8,10 @@
             "email": "muhammed.a.radwan@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "theplanet-tech\\planet-admin\\": "src/"
+        }
+    }
 }
